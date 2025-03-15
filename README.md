@@ -7,7 +7,19 @@ Welcome to the **Modern AI for Image Classification and Segmentation** repositor
 
 ### 🎓 Instructor: Teerapong Panboonyuen, Ph.D.
 
-Hello, I'm **Teerapong Panboonyuen**, and I'll be guiding you through the exciting world of image analysis using cutting-edge AI techniques. With hands-on lectures, you will learn the fundamentals and practical aspects of modern image classification and segmentation algorithms. 
+Hello, I'm **Teerapong Panboonyuen**, and I'll be guiding you through the exciting world of image analysis using cutting-edge AI techniques. With hands-on lectures, you will learn the fundamentals and practical aspects of modern image classification and segmentation algorithms.
+
+---
+
+### 📚 **Main Resources**
+
+- **Slides on Basic AI to OCSB**: [View the slides](https://github.com/kaopanboonyuen/OCSB-AI/slides/20250317_BasicAI_toOCSB.pdf)
+  
+- **Lab: Titanic Machine Learning**: [Open in Colab](https://colab.research.google.com/github/kaopanboonyuen/OCSB-AI/code/Titanic_ML.ipynb)
+
+- **Lab: Satellite Classification**: [Open in Colab](https://colab.research.google.com/github/kaopanboonyuen/OCSB-AI/code/Satellite_Classification.ipynb)
+
+- **Lab: Image Segmentation**: [Open in Colab](https://colab.research.google.com/github/kaopanboonyuen/OCSB-AI/code/Titanic_ML.ipynb)
 
 ---
 
@@ -16,6 +28,8 @@ Hello, I'm **Teerapong Panboonyuen**, and I'll be guiding you through the exciti
 - **Image Segmentation**: You'll explore how AI models can be trained to segment images into meaningful regions or objects, making them highly useful for tasks such as medical imaging, autonomous driving, and more.
 
 Both topics will be taught using popular frameworks such as **TensorFlow**, **Keras**, and **PyTorch**, making it easy for you to implement and experiment with your own models.
+
+---
 
 ### 📥 Getting Started
 
@@ -39,19 +53,23 @@ pip install -r requirements.txt
 
 ### 🚀 How to Run
 
-#### 1. **Image Classification:**
-Run the `image_classification.py` script to train an AI model that classifies images into predefined categories. You can use your own dataset or experiment with popular datasets like **CIFAR-10** or **MNIST**.
+#### 1. **Titanic Classification:**
+Run the Titanic Machine Learning notebook to train an AI model using the Titanic dataset. You can experiment with different models such as RandomForest, GradientBoosting, and Neural Networks using `sklearn`.
 
-```bash
-python image_classification.py
-```
+- Open the notebook in Google Colab:  
+  [Titanic Machine Learning Notebook](https://colab.research.google.com/github/kaopanboonyuen/OCSB-AI/code/Titanic_ML.ipynb)
 
-#### 2. **Image Segmentation:**
-Run the `image_segmentation.py` script to train a model that performs pixel-level segmentation, categorizing each pixel into meaningful segments (such as objects or regions in an image).
+#### 2. **Satellite Classification:**
+Run the Satellite Classification notebook to work on image classification tasks using AI models such as CNN, ResNet, and DenseNet. You will use pretrained models for classification tasks.
 
-```bash
-python image_segmentation.py
-```
+- Open the notebook in Google Colab:  
+  [Satellite Classification Notebook](https://colab.research.google.com/github/kaopanboonyuen/OCSB-AI/code/Satellite_Classification.ipynb)
+
+#### 3. **Image Segmentation:**
+Run the Image Segmentation notebook to perform pixel-level segmentation on satellite images. This notebook includes both deep learning-based segmentation and evaluation techniques.
+
+- Open the notebook in Google Colab:  
+  [Image Segmentation Notebook](https://colab.research.google.com/github/kaopanboonyuen/OCSB-AI/code/Titanic_ML.ipynb) (Note: You might want to update this link with the correct one for segmentation if it's different from the Titanic ML)
 
 ---
 
