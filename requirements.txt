@@ -1,0 +1,24 @@
+# PyTorch and torchvision for image classification
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Pandas for data handling and manipulation
+pandas>=1.5.0
+
+# Pillow (PIL) for image processing
+Pillow>=9.0.0
+
+# Ultralytics for YOLOv5 and other object detection models
+ultralytics>=8.0.0
+
+# OpenCV for computer vision tasks
+opencv-python>=4.6.0
+
+# NumPy for numerical operations
+numpy>=1.21.0
+
+# Wand for image manipulation (ImageMagick bindings)
+wand>=0.6.6
+
+# AWS SDK for Python (Boto3) for interacting with AWS services
+boto3>=1.24.0
