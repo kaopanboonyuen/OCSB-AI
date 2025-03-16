@@ -51,26 +51,6 @@ pip install -r requirements.txt
 - TensorFlow, Keras, or PyTorch (depending on the model you choose to run)
 - Other standard dependencies (see `requirements.txt`)
 
-### 🚀 How to Run
-
-#### 1. **Titanic Classification:**
-Run the Titanic Machine Learning notebook to train an AI model using the Titanic dataset. You can experiment with different models such as RandomForest, GradientBoosting, and Neural Networks using `sklearn`.
-
-- Open the notebook in Google Colab:  
-  [Titanic Machine Learning Notebook](https://colab.research.google.com/github/kaopanboonyuen/OCSB-AI/code/Titanic_ML.ipynb)
-
-#### 2. **Satellite Classification:**
-Run the Satellite Classification notebook to work on image classification tasks using AI models such as CNN, ResNet, and DenseNet. You will use pretrained models for classification tasks.
-
-- Open the notebook in Google Colab:  
-  [Satellite Classification Notebook](https://colab.research.google.com/github/kaopanboonyuen/OCSB-AI/code/Satellite_Classification.ipynb)
-
-#### 3. **Image Segmentation:**
-Run the Image Segmentation notebook to perform pixel-level segmentation on satellite images. This notebook includes both deep learning-based segmentation and evaluation techniques.
-
-- Open the notebook in Google Colab:  
-  [Image Segmentation Notebook](https://colab.research.google.com/github/kaopanboonyuen/OCSB-AI/code/Titanic_ML.ipynb) (Note: You might want to update this link with the correct one for segmentation if it's different from the Titanic ML)
-
 ---
 
 ### 📞 Contact
