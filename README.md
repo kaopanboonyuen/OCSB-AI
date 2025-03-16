@@ -13,7 +13,7 @@ Hello, I'm **Teerapong Panboonyuen**, and I'll be guiding you through the exciti
 
 ### 📚 **Main Resources**
 
-- **Slides on Basic AI to OCSB**: [View the slides](https://github.com/kaopanboonyuen/OCSB-AI/slides/20250317_BasicAI_toOCSB.pdf)
+- **Slides on Basic AI to OCSB**: [View the slides](https://github.com/kaopanboonyuen/OCSB-AI/blob/main/slides/20250317_BasicAI_toOCSB.pdf)
   
 - **Lab: Titanic Machine Learning**: [Open in Colab](https://colab.research.google.com/github/kaopanboonyuen/OCSB-AI/blob/main/code/Titanic_ML_toStudent.ipynb)
 
