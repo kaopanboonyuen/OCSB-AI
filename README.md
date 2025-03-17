@@ -17,7 +17,7 @@ Hello, I'm **Teerapong Panboonyuen**, and I'll be guiding you through the exciti
   
 - **Lab: Titanic Machine Learning**: [Open in Colab](https://colab.research.google.com/github/kaopanboonyuen/OCSB-AI/blob/main/code/Titanic_ML_toStudent.ipynb)
 
-- **Lab: Satellite Classification**: N/A
+- **Lab: Satellite Classification**: [Open in Colab](https://colab.research.google.com/github/kaopanboonyuen/OCSB-AI/blob/main/code/Satellite_Classification_toStudent.ipynb)
 
 - **Lab: Image Segmentation**: N/A
 
